@@ -1,0 +1,27 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.some{
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
+.some2{
+    font-size: 1em;
+    font-weight: 400;
+}
+
+.some3{
+    padding-top: 25px;
+    font-size: .95em;
+    font-weight:400;
+}
+
+.simg{
+    width: 50px;
+    height: 50px;
+}

@@ -1,0 +1,55 @@
+.main{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 6%;
+    padding-right: 3%;
+    background-color: #F7F6F6;
+}
+
+.top{
+    text-align: center;
+}
+
+.title{
+    font-size: 1.7em;
+    font-weight: 650;
+    padding-bottom: 1%;
+}
+
+.title1{
+    margin-top: 3.5%;
+    font-size: 1.7em;
+    font-weight: 650;
+    padding-bottom: 1%;
+}
+
+.title2{
+    color: gray;
+    font-size: .9em;
+}
+
+.line{
+    margin-top: 2%;
+    height: 2px;
+    background-color: #dc3545;
+    border: none; 
+    width:100px;
+    text-align:center;
+}
+
+.container{
+    margin-top:1.5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.item {
+    flex: 25%;
+    margin:2%;
+    border: 1px;
+    background-color: white;
+}
+
+

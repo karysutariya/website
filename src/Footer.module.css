@@ -1,0 +1,42 @@
+.main{
+    background-color: #040c2c;
+    position: relative;
+    padding: 60px 0;
+}
+
+.main2{
+    text-align: center;
+    color: white;
+    display: block;
+    padding-bottom: 2%;
+}
+
+.main21{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font: 400 14px/20px Lora,serif;
+}
+
+.colort1{
+    color: #999;
+}
+
+.colott2{
+    color:#fff;
+    font: 400 10px/18px Montserrat,sans-serif;
+}
+
+.lastline{
+    font: 400 10px/18px Montserrat,sans-serif;
+    color: #fff;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.cal{
+    color: white;
+}
+
+.cal:hover{
+    color: #dc3545
+}
