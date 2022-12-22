@@ -13,7 +13,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
     <div>
-    <title>SK- ML developer</title>
+    <title>SK- Python Developer</title>
     <App />
     <Info />
     <Work />
