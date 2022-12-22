@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website/static/css/main.5331c1a7.css",
-    "main.js": "/website/static/js/main.bb55c66f.js",
+    "main.js": "/website/static/js/main.d0c45a10.js",
     "static/js/787.0dcb07ab.chunk.js": "/website/static/js/787.0dcb07ab.chunk.js",
     "static/media/8.jpg": "/website/static/media/8.ec20988331962deb4ee1.jpg",
     "static/media/Resume - Kary Sutariya.pdf": "/website/static/media/Resume - Kary Sutariya.dfa3c3f0a1ece71830f7.pdf",
@@ -11,11 +11,11 @@
     "static/media/sk1.png": "/website/static/media/sk1.e5b0b771c2a6194344ca.png",
     "index.html": "/website/index.html",
     "main.5331c1a7.css.map": "/website/static/css/main.5331c1a7.css.map",
-    "main.bb55c66f.js.map": "/website/static/js/main.bb55c66f.js.map",
+    "main.d0c45a10.js.map": "/website/static/js/main.d0c45a10.js.map",
     "787.0dcb07ab.chunk.js.map": "/website/static/js/787.0dcb07ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5331c1a7.css",
-    "static/js/main.bb55c66f.js"
+    "static/js/main.d0c45a10.js"
   ]
 }
